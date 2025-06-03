@@ -1,0 +1,143 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/defalt/Desktop/Tema8semafor/debug/sim
+vck_rst_tb
+Z1 !s110 1744777957
+!i10b 1
+!s100 4S[E0A@eb@h5dHf>EGMzF1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I8INM9To_8HCKi:bLZTJ8<1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1741777988
+8../hdl/ck_rst_tb.v
+F../hdl/ck_rst_tb.v
+!i122 87
+L0 11 24
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1744777956.000000
+!s107 ../hdl/ck_rst_tb.v|
+!s90 -reportprogress|300|../hdl/ck_rst_tb.v|
+!i113 1
+Z6 tCvgOpt 0
+vdff
+Z7 !s110 1744777956
+!i10b 1
+!s100 E879[ja[=^W`cA7De_AWI1
+R2
+IgW_OPc=3AmhXHE@d<Wk^32
+R3
+R0
+w1743962368
+8../../hdl/dff.v
+F../../hdl/dff.v
+!i122 85
+L0 10 10
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../../hdl/dff.v|
+!s90 -reportprogress|300|../../hdl/dff.v|
+!i113 1
+R6
+vpietoni
+R1
+!i10b 1
+!s100 AiTZVCWal_HjQ]loXARNO2
+R2
+IFAFnfl9IVX6Gle5EA=C8a2
+R3
+R0
+w1744777107
+8../hdl/pieton.v
+F../hdl/pieton.v
+!i122 89
+L0 1 20
+R4
+r1
+!s85 0
+31
+Z8 !s108 1744777957.000000
+!s107 ../hdl/pieton.v|
+!s90 -reportprogress|300|../hdl/pieton.v|
+!i113 1
+R6
+vsemafor
+R7
+!i10b 1
+!s100 <<>^j3Mmjz?:?gC6oNYPz0
+R2
+I7<E;Z04Zco;@iKzb4GPMd0
+R3
+R0
+w1744777954
+8../../hdl/semafor.v
+F../../hdl/semafor.v
+!i122 86
+L0 11 92
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../../hdl/semafor.v|
+!s90 -reportprogress|300|../../hdl/semafor.v|
+!i113 1
+R6
+vsemafor_test
+R1
+!i10b 1
+!s100 OgYWJEcXWgAM=K:3_Rz2@1
+R2
+I;RTN]JV_1zQZ5Mljm<74@3
+R3
+R0
+w1744777159
+8../hdl/semafor_test.v
+F../hdl/semafor_test.v
+!i122 88
+L0 1 28
+R4
+r1
+!s85 0
+31
+R8
+!s107 ../hdl/semafor_test.v|
+!s90 -reportprogress|300|../hdl/semafor_test.v|
+!i113 1
+R6
+vtff
+R7
+!i10b 1
+!s100 <7O`;aL5z_L^A^9@=Gl?23
+R2
+I_ATIc`l6bBQ8Bz27N;UK50
+R3
+R0
+w1743962372
+8../../hdl/tff.v
+F../../hdl/tff.v
+!i122 84
+L0 10 13
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../../hdl/tff.v|
+!s90 -reportprogress|300|../../hdl/tff.v|
+!i113 1
+R6
