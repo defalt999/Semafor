@@ -1,8 +1,7 @@
 vlib work
 vmap work work
 
-vlog  ../../hdl/tff.v
-vlog  ../../hdl/dff.v
+
 vlog  ../../hdl/semafor.v
 
 vlog  ../hdl/ck_rst_tb.v
